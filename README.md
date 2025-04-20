@@ -5,7 +5,7 @@
 
 <p align="left">
   <img src="assets/icons/python-logo.svg" alt="Python Logo" width="40"/>
-  <img src="assets/icons/python-logo.svg" alt="Python Logo" width="40"/>
+  <img src="assets/icons/docker-logo.svg" alt="Python Logo" width="40"/>
   <img src="assets/icons/python-logo.svg" alt="Python Logo" width="40"/>
   <img src="assets/icons/python-logo.svg" alt="Python Logo" width="40"/>
   <img src="assets/icons/python-logo.svg" alt="Python Logo" width="40"/>
