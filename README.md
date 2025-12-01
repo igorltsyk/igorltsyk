@@ -1,6 +1,12 @@
 <h1 align="left">Hi, I'm Igor 👋</h1>
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorltsyk&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorltsyk&theme=transparent)
+<div align="center">
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Digorltsyk%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+</a>
+
+  
 <h1 align="left">💼Currently working as a BPO Assistant at Meta  🏢 </h1>
 <h1 align="left">🎓 Studying Software Engineering at Universidade de Mogi das Cruzes (UMC) </h1>
 
